@@ -46,10 +46,10 @@ You awaken at **07:00** in a quaint Bavarian village with only **€5** in your 
 
 ### 1. School (Academy Hall & Lecture Rooms)
 *The central hub of academics, faculty drama, and physical crime evidence.*
-* **Attend Course 1 (Logic & Models)**:
+* **Attend Course 1 (Linear optimization)**:
   * Alone: Requires 2 hours, consumes **15 stamina**. Available anytime, but intended for 08:00–10:00.
   * With Jason: Talk to Jason -> Attend together: Consumes only **10 stamina**, 2 hours.
-* **Attend Course 2 (Responsible AI)**:
+* **Attend Course 2 (Stochastic processes and Bayesian inference)**:
   * Alone: Requires 2 hours, consumes **15 stamina**. Available anytime, but intended for 13:00–15:00.
   * With Jason: Talk to Jason -> Attend together: Consumes only **10 stamina**, 2 hours.
 * **Inspect Horton's Podium**: Takes 1 hour, consumes **10 stamina**. Yields **Bloodstained Chalk** (physical clue).
@@ -213,7 +213,7 @@ Achievements are permanently saved across all cycles and days.
 | # | Achievement | Icon | Description | Exact Strategy |
 | :-: | :--- | :-: | :--- | :--- |
 | **1** | **First Day at School** | 📖 | Complete your first course. | Attend Course 1 or Course 2 at School. |
-| **2** | **Model Student** | 🎓 | Complete both courses on time. | Attend Course 1 between **08:00–10:00** and Course 2 between **13:00–15:00**. |
+| **2** | **Model Student** | 🎓 | Complete both courses on time. | Complete both courses before their respective cutoffs (Course 1 before 10:00; Course 2 before 15:00; taking Course 2 early before 13:00 also qualifies as Model Student). |
 | **3** | **King of Tardiness** | ⏰ | Complete both courses outside peak hours. | Attend Course 1 after 10:00 (e.g. 11:00) and Course 2 after 15:00 (e.g. 16:00). |
 | **4** | **Study Buddies** | 🧠 | Attend a class together with Jason. | Talk to Jason at School and select *Attend Together*. |
 | **5** | **Best Study Partners** | 📚 | Complete both classes together with Jason. | Attend Course 1 AND Course 2 together with Jason in a single day. |
